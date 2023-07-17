@@ -1,0 +1,2 @@
+# Analysis-and-Visualization-of-the-Space-Race
+The Space Mission Data includes all the space missions since the beginning of the Space Race between the USA and the Soviet Union in 1957! It has data on the mission status (success/failure), the cost of the mission, the number of launches per country, and much much more. We can learn so much from this dataset about the dominant organizations and the trends over time.
